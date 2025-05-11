@@ -73,7 +73,7 @@
 ## ⭐ Свяжитесь со мной
 
 - 📧 Email: kirill.nikiforov@example.com
-- 💬 Telegram: [@kirills_dev](https://t.me/kirills_dev)
+- 💬 Telegram: [@kirills_dev](https://t.me/M0dernik)
 - 🔗 LinkedIn: [Кирилл Никифоров](https://www.linkedin.com/in/kirill-nikiforov/)
 
 ---
