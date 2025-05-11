@@ -8,6 +8,7 @@
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/M0dernik)](https://t.me/M0dernik)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/m0derNik)](https://github.com/m0derNik)
 [![CodeWars Badge](https://www.codewars.com/users/m0derNik/badges/micro)](https://www.codewars.com/users/m0derNik)
+[![Portfolio Badge](https://img.shields.io/badge/-Portfolio-4285F4?style=flat-square&logo=googlechrome&logoColor=white&link=https://kirills-portfolio-showcase.vercel.app)](https://kirills-portfolio-showcase.vercel.app)
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -20,6 +21,7 @@
 - 🔭 Открыт к сотрудничеству и интересным проектам!
 - 💬 Спрашивайте меня о **React, ASP.NET Core, TypeScript, C#**
 - ⚡ Забавный факт: я пишу код даже во сне 😄
+- 🌐 Мой сайт-портфолио: [kirills-portfolio-showcase.vercel.app](https://kirills-portfolio-showcase.vercel.app)
 
 ## 📊 Моя активность в GitHub
 
@@ -170,6 +172,9 @@ CSS          ▒░░░░░░░░░░░░░░░░░░░░   0
   </a>
   <a href="https://dev.to/m0dernik">
     <img src="https://img.shields.io/badge/-DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.TO" />
+  </a>
+  <a href="https://kirills-portfolio-showcase.vercel.app">
+    <img src="https://img.shields.io/badge/-Portfolio-4285F4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
 
