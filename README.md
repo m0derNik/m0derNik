@@ -4,10 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Fullstack+JavaScript+%2F+ASP.NET+Developer;Креативный+кодер;Любитель+новых+технологий" alt="Typing SVG" />
 </div>
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kirill-nikiforov/)](https://www.linkedin.com/in/kirill-nikiforov/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/kirills_dev)](https://t.me/kirills_dev)
-[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/kirills-dev)](https://github.com/kirills-dev)
-[![CodeWars Badge](https://www.codewars.com/users/kirills-dev/badges/micro)](https://www.codewars.com/users/kirills-dev)
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kirill-nikiforov-b4845b320/)](https://www.linkedin.com/in/kirill-nikiforov-b4845b320/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/M0dernik)](https://t.me/M0dernik)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/m0derNik)](https://github.com/m0derNik)
+[![CodeWars Badge](https://www.codewars.com/users/m0derNik/badges/micro)](https://www.codewars.com/users/m0derNik)
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -24,7 +24,7 @@
 ## 📊 Моя активность в GitHub
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kirills-dev&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m0derNik&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" width="100%"/>
 </div>
 
 ## 🚀 Технологический стек
@@ -75,26 +75,26 @@
 ## 🏆 Достижения на Codewars
 
 <div align="center">
-  <img src="https://www.codewars.com/users/kirills-dev/badges/large" alt="Codewars Badge" />
+  <img src="https://www.codewars.com/users/m0derNik/badges/large" alt="Codewars Badge" />
 </div>
 
 ## 📊 GitHub Статистика
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kirills-dev&theme=algolia&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=m0derNik&theme=algolia&column=7&margin-w=15&margin-h=15" alt="GitHub Trophy" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=kirills-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kirills-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=m0derNik&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=m0derNik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirills-dev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m0derNik&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </div>
 
 ## 📚 Образование и опыт
@@ -106,14 +106,14 @@
 ## 🌟 Ключевые проекты
 
 <div align="center">
-  <a href="https://github.com/kirills-dev/online-strategy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirills-dev&repo=online-strategy&theme=tokyonight&hide_border=true" alt="Онлайн-стратегия" />
+  <a href="https://github.com/m0derNik/2048WithCamGestures">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m0derNik&repo=2048WithCamGestures&theme=tokyonight&hide_border=true" alt="2048 с распознаванием жестов" />
   </a>
-  <a href="https://github.com/kirills-dev/2048-gesture-recognition">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirills-dev&repo=2048-gesture-recognition&theme=tokyonight&hide_border=true" alt="2048 с распознаванием жестов" />
+  <a href="https://github.com/m0derNik/Game-club-manager">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m0derNik&repo=Game-club-manager&theme=tokyonight&hide_border=true" alt="Game Club Manager" />
   </a>
-  <a href="https://github.com/kirills-dev/portfolio-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kirills-dev&repo=portfolio-website&theme=tokyonight&hide_border=true" alt="Сайт-портфолио" />
+  <a href="https://github.com/m0derNik/FromsApp-Backend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m0derNik&repo=FromsApp-Backend&theme=tokyonight&hide_border=true" alt="Forms App Backend" />
   </a>
 </div>
 
@@ -159,16 +159,16 @@ CSS          ▒░░░░░░░░░░░░░░░░░░░░   0
 ## ⭐ Свяжитесь со мной
 
 <div align="center">
-  <a href="mailto:kirill.nikiforov@example.com">
+  <a href="mailto:kirill111nikiforov@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://t.me/kirills_dev">
+  <a href="https://t.me/M0dernik">
     <img src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://www.linkedin.com/in/kirill-nikiforov/">
+  <a href="https://www.linkedin.com/in/kirill-nikiforov-b4845b320/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://dev.to/kirills_dev">
+  <a href="https://dev.to/m0dernik">
     <img src="https://img.shields.io/badge/-DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="DEV.TO" />
   </a>
 </div>
@@ -176,9 +176,9 @@ CSS          ▒░░░░░░░░░░░░░░░░░░░░   0
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kirills-dev&label=Посетителей+профиля&color=6A5ACD&style=for-the-badge" alt="Visitors" />
+  <img src="https://komarev.com/ghpvc/?username=m0derNik&label=Посетителей+профиля&color=6A5ACD&style=for-the-badge" alt="Visitors" />
   
-  ### Покажите ♥ поставив звезду на [мои репозитории](https://github.com/kirills-dev?tab=repositories)!
+  ### Покажите ♥ поставив звезду на [мои репозитории](https://github.com/m0derNik?tab=repositories)!
   
-  ![Snake animation](https://github.com/kirills-dev/kirills-dev/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/m0derNik/m0derNik/blob/output/github-contribution-grid-snake.svg)
 </div>
