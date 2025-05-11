@@ -1,7 +1,7 @@
 # 👋 Привет, я Кирилл Никифоров!
 
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/kirill-nikiforov/)](https://www.linkedin.com/in/kirill-nikiforov/)
-[![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/kirills_dev)](https://t.me/kirills_dev)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white&link=https://t.me/kirills_dev)](https://t.me/M0dernik)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/kirills-dev)](https://github.com/kirills-dev)
 
 ## 💻 Fullstack JavaScript / ASP.NET Разработчик
